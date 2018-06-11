@@ -11,6 +11,7 @@ public class MainApp {
 		Profile profile=(Profile) ac.getBean("profile");
         profile.printAge();
         profile.printName();
+        
 	}
 
 }
